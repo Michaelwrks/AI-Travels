@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "@types/node": "^24.3.0",
+    "@types/react": "^19.1.12"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.57.0",
+    "create-react-context": "^0.3.0"
+  }
+}
